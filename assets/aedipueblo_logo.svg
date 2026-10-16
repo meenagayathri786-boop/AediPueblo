@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="96"
+     viewBox="0 0 340 96" role="img" aria-label="AediPueblo logo">
+  <g transform="translate(2 3) scale(0.77)">
+<path d="M10 112 V56 a50 50 0 0 1 100 0 V112 Z" fill="#14504B"/>
+<path d="M16 112 V58 a44 44 0 0 1 88 0 V112" fill="none" stroke="#9CC9BF"
+      stroke-width="1.3" stroke-dasharray="2 3.2" opacity="0.75"/>
+<circle cx="60" cy="34" r="8" fill="#E5A82B"/>
+<g stroke="#E5A82B" stroke-width="2" stroke-linecap="round">
+  <path d="M72 34h5M70.4 28l4.3-2.5M66 23.6l2.5-4.3M60 22v-5M54 23.6l-2.5-4.3M49.6 28l-4.3-2.5M48 34h-5"/>
+</g>
+<g fill="#CFE5DE">
+  <path d="M14 82 L29 68 L44 82 V100 H14 Z"/>
+  <path d="M76 82 L91 68 L106 82 V100 H76 Z"/>
+</g>
+<g fill="#EAF3EF" stroke="#14504B" stroke-width="2.2" stroke-linejoin="round">
+  <path d="M38 69 L60 46 L82 69 V100 H38 Z"/>
+</g>
+<g fill="#14504B">
+  <rect x="45" y="74" width="7" height="7" rx="1"/>
+  <rect x="68" y="74" width="7" height="7" rx="1"/>
+  <rect x="26.5" y="86" width="5" height="5" rx="1"/>
+  <rect x="88.5" y="86" width="5" height="5" rx="1"/>
+</g>
+<path d="M54 100 V91 a6 6 0 0 1 12 0 V100 Z" fill="#E5A82B"/>
+<path d="M10 100 H110" stroke="#E5A82B" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M10 106 H110" stroke="#9CC9BF" stroke-width="1" opacity="0.6"/>
+</g>
+  <text x="108" y="54" font-family="Fraunces, Georgia, serif" font-size="35"
+        letter-spacing="-0.8"><tspan font-weight="600" fill="#14504B">Aedi</tspan><tspan
+        font-weight="400" fill="#10302E">Pueblo</tspan></text>
+  <path d="M110 64 H150" stroke="#E5A82B" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="110" y="82" font-family="Figtree, Arial, sans-serif" font-size="13.5"
+        letter-spacing="0.3" fill="#55696A">Home planning for everyone</text>
+</svg>

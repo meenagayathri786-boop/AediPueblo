@@ -1,0 +1,8 @@
+__pycache__/*.pyc.vscode/
+
+.venv/
+build/
+dist/
+*.spec
+AediPueblo.bat
+.streamlit/secrets.toml
